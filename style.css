@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {font-family: 'pt_sansregular';}
+
+h1,h2,h3,h4,h5,h6 {font-family: 'pt_sans_narrowbold';}
+
+.container {padding-top: 70px; }
+
+na a:hover { background-color: #888888}
+
+
+.carousel-inner img, video {width:100%;heigt:auto;}
+i {
+	font-size: 200%;
+	color: deeppink;
+}
+
+footer { 
+		padding: 3em 3em;
+		margin-top: 3em;
+		color:white;
+}
+
+footer a {color: orange}
+footer a:hover {color:deeppink}
